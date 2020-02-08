@@ -1,0 +1,14 @@
+git+https://github.com/Rapptz/discord.py
+python-nmap
+subprocess
+dnspython
+sockets
+vulners
+base64
+ctypes
+requests
+time
+markdown
+virustotal3
+shodan
+os.path
